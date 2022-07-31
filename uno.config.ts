@@ -7,7 +7,7 @@ import {
   presetWebFonts,
   transformerDirectives,
   transformerVariantGroup,
-} from 'unocss'
+} from 'unocss';
 
 export default defineConfig({
   shortcuts: [
@@ -22,10 +22,20 @@ export default defineConfig({
     }),
     presetTypography(),
     presetWebFonts({
+      provider: 'google',
       fonts: {
-        sans: 'DM Sans',
-        serif: 'DM Serif Display',
-        mono: 'DM Mono',
+        sans: 'Roboto',
+        poppins: [
+          {
+            name: 'Poppins',
+            weights: ['400', '500', '600', '700'],
+            italic: false,
+          },
+          {
+            name: 'sans-serif',
+            provider: 'none',
+          },
+        ],
       },
     }),
   ],
@@ -33,4 +43,4 @@ export default defineConfig({
     transformerDirectives(),
     transformerVariantGroup(),
   ],
-})
+});
