@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-84c1d017.mjs";import{o as r,a as o}from"./entry-1b77c428.mjs";const t={};function c(n,s){return r(),o("h1",null," Future buildings Projects ")}var f=e(t,[["render",c]]);export{f as default};

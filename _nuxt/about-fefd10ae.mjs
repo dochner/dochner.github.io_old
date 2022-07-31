@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-84c1d017.mjs";import{o as r,a as o}from"./entry-1b77c428.mjs";const t={};function a(c,n){return r(),o("h1",null," Future buildings About ")}var _=e(t,[["render",a]]);export{_ as default};
