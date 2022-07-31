@@ -5566,7 +5566,7 @@ universalify@^2.0.0:
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-2.0.0.tgz#75a4984efedc4b08975c5aeb73f530d02df25717"
   integrity sha512-hAZsKq7Yy11Zu1DE0OzWjw7nnLZmJZYTDZZyEFHZdUhV8FkH5MCfoU1XMaxXovpyW5nq5scPqq0ZDP9Zyl04oQ==
 
-unocss@0.45.1:
+unocss@0.45.1, unocss@^0.45.1:
   version "0.45.1"
   resolved "https://registry.yarnpkg.com/unocss/-/unocss-0.45.1.tgz#aea51d02b4ebebddb28619e46f0125ebafae92f0"
   integrity sha512-PRPU8WIqEYN+cS7YbptGOJqeAcdDBllRnknUNiK6vzaK9YqomR+Gzk81zxcSW3A159QERmy3TdvpaxmDwO4ZCA==
