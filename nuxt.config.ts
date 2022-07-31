@@ -2,6 +2,7 @@ import { defineNuxtConfig } from 'nuxt';
 
 export default defineNuxtConfig({
   target: 'static',
+  components: true,
   modules: [
     '@vueuse/nuxt',
     '@unocss/nuxt',
