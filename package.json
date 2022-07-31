@@ -1,0 +1,23 @@
+{
+  "name": "dochner.github.io",
+  "version": "1.0.0",
+  "description": "My personal github page",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dochner/dochner.github.io.git"
+  },
+  "keywords": [
+    "github-io",
+    "github-pages",
+    "vuejs",
+    "nuxt3"
+  ],
+  "author": "Douglas Gabriel Ochner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dochner/dochner.github.io/issues"
+  },
+  "homepage": "https://github.com/dochner/dochner.github.io#readme"
+}
