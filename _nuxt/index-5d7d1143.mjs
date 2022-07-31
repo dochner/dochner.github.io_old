@@ -1,1 +1,0 @@
-import{_ as o}from"./plugin-vue_export-helper-84c1d017.mjs";import{o as s,a as n,b as e}from"./entry-45d4aea0.mjs";const t={},c=e("h1",null,"Hey, I'm Douglas Ochner",-1),r=e("h2",null,"I enjoy to develop websites and create such amazing user experiences.",-1),a=[c,r];function _(i,l){return s(),n("div",null,a)}var h=o(t,[["render",_]]);export{h as default};
